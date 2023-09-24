@@ -7,3 +7,6 @@ Here is a website with additional information and some examples of AKARI games -
 This project is recreating this Japanese light-up puzzle in Swift. It uses the MVVM design pattern. 
 
 
+## Specifications 
+- implements frontend UI 
+
